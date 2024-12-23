@@ -4,11 +4,11 @@
 I am a [PhD Student](https://eqm.phd.unige.it/en/tropiano) in Economics and Quantitative Methods at the University of Genoa. 
 
 My research focuses on quantitative finance, currently working on exotic options pricing and machine learning applications.
-Programming is one of my passion, an interest which has grown on me during my Master's Degree in Economics and Data Science.
-- You can contact me at federico.tropiano@edu.unige.it
+Programming is one of my main passions, an interest that has grown on me during my Master's degree in Economics and Data Science.
 - Interested in Quantitative Finance, Programming, Economics, Music
 - Lifelong Learning mindset
 - Open to collaborating on new projects
+- You can contact me at federico.tropiano@edu.unige.it
 ## Programming skills:
 - Python
 - R
