@@ -3,7 +3,7 @@
 ## About me
 I am a [PhD Student](https://eqm.phd.unige.it/en/tropiano) in Economics and Quantitative Methods at the University of Genoa.
 
-My research focuses on quantitative finance, currently working on exotic options pricing and machine learning applications.
+My research focuses on quantitative finance, and I'm currently working on exotic options pricing and machine learning applications.
 Programming is one of my main passions, an interest that has grown on me during my Master's degree in Economics and Data Science.
 - Interested in Quantitative Finance, Programming, Economics, Music
 - Lifelong learner
