@@ -12,8 +12,6 @@ My research interests include:
 - Quantitative finance
 - Computational methods for financial modeling
 
----
-
 <!---
 FedericoTropiano/FedericoTropiano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
