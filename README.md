@@ -2,16 +2,20 @@
 
 ## About me
 I am a [PhD Researcher](https://eqm.phd.unige.it/en/tropiano) in Mathematical Finance at the University of Genoa.
+# Federico Tropiano
 
-My research focuses on quantitative finance, and I'm currently working on Stochastic Optimal Control, option pricing and machine learning applications.
-Programming is one of my main passions, an interest that has grown on me during my Master's degree in Economics and Data Science.
-- Interested in Quantitative Finance, Programming, Economics, Music
-- Open to collaborating on new projects
-- You can contact me at federico.tropiano@edu.unige.it
-## Programming skills:
-- Python
-- R
-- MATLAB
+PhD Researcher in Mathematical Finance at the University of Genoa.
+
+I work on stochastic processes, stochastic control, and quantitative models
+for financial markets.
+
+My research interests include:
+- Optimal execution and market microstructure
+- Stochastic control and HJB equations
+- Quantitative finance
+- Computational methods for financial modeling
+
+---
 
 <!---
 FedericoTropiano/FedericoTropiano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
