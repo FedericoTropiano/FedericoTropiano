@@ -2,9 +2,6 @@
 
 ## About me
 I am a [PhD Researcher](https://eqm.phd.unige.it/en/tropiano) in Mathematical Finance at the University of Genoa.
-# Federico Tropiano
-
-PhD Researcher in Mathematical Finance at the University of Genoa.
 
 I work on stochastic processes, stochastic control, and quantitative models
 for financial markets.
